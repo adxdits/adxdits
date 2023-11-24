@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm a frontend developer</h1>
+<h1 align="center">Hi 👋, I'm a developer</h1>
 <h3 align="center">As a versatile multimedia engineer skilled in VFX development, web development, video montage, and game developement, I bring a unique blend of technical expertise and creative flair to the table</h3>
 <img align="right" alt="Coding" width="400" src="https://adxdits.github.io/AdamAlMounayar.github.io/fire.png">
 
