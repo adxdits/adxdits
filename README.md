@@ -3,17 +3,22 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/34/65/84/346584525d151255f8fcf03fa2612e99.gif">
 
 - 🔭 I’m currently working on **a new website**
-
 - 🌱 I’m currently learning **Jenkins**
-
 - 📫 How to reach me **adamalmounayar@hotmail.com**
-
 - ⚡ Fun fact **I am Lebanese living in Paris**
+-   <a href="https://adxdits.github.io/Blog/" target="blank">
+    <img align="center" src="https://img.icons8.com/?size=100&id=cXYUoqPdbtbr&format=png&color=000000" alt="Blog" height="30" width="30" />
+    <span>Read My Blog</span>
+  </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://instagram.com/adamxmounayar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adamxmounayar" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/adxdit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="adxdit" height="30" width="40" /></a>
+  <a href="https://instagram.com/adamxmounayar" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adamxmounayar" height="30" width="30" />
+  </a>
+  <a href="https://www.linkedin.com/in/adam-al-mounayar-0b6a5026b/" target="blank">
+    <img align="center" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="adam-al-mounayar" height="30" width="30" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -40,5 +45,5 @@
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" alt="jenkins" width="40" height="40"/> </a>
 </p>
 
-<img align="center" alt="Asta" src="https://steamuserimages-a.akamaihd.net/ugc/268343745585932953/EA5B5DB7B3436E518A257B9C8E8B1663626FEF42/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
+<img align="center" alt="Asta" src="https://steamuserimages-a.akamaihd.net/ugc/268343745585932953/EA5B5DB7B3436E518A257B9C8E8B1663626FEF42/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" />
 
