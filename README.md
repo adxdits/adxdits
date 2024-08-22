@@ -7,7 +7,7 @@
 - 📫 How to reach me **adamalmounayar@hotmail.com**
 - ⚡ Fun fact **I am Lebanese living in Paris**
 -   <a href="https://adxdits.github.io/Blog/" target="blank">
-    <img align="center" src="https://img.icons8.com/?size=100&id=cXYUoqPdbtbr&format=png&color=000000" alt="Blog" height="30" width="30" />
+    <img align="center" src="https://adxdits.github.io/MySite/" alt="Blog" height="30" width="30" />
     <span>Read My Blog</span>
   </a>
 
