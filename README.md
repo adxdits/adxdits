@@ -2,7 +2,6 @@
 <h3 align="center">As a software engineer skilled in web development</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/34/65/84/346584525d151255f8fcf03fa2612e99.gif">
 
-- 🔭 I’m currently working as an apprentice at **AMADEUS**
 - 🌱 I’m currently learning **Jenkins**
 - 📫 How to reach me **adamalmounayar@hotmail.com**
 - ⚡ Fun fact **I am Lebanese living in Paris**
