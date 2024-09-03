@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning **Jenkins**
 - 📫 How to reach me **adamalmounayar@hotmail.com**
 - ⚡ Fun fact **I am Lebanese living in Paris**
+- 💼 I work at **Amadeus**
 
 <a href="https://adxdits.github.io/MySite/" target="blank">
   <img align="center" src="https://img.icons8.com/?size=100&id=cXYUoqPdbtbr&format=png&color=000000" alt="Blog" height="30" width="30" />
@@ -66,11 +67,3 @@
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
   </a>
 </p>
-<h3 align="left">Additional Tools and Skills:</h3>
-<p align="left">
-  <a href="https://ngrx.io/" target="_blank" rel="noreferrer"> <img src="https://ngrx.io/assets/images/badge.svg" alt="ngrx" width="40" height="40"/> </a> 
-  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" alt="jenkins" width="40" height="40"/> </a>
-</p>
-
-<img align="center" alt="Asta" src="https://steamuserimages-a.akamaihd.net/ugc/268343745585932953/EA5B5DB7B3436E518A257B9C8E8B1663626FEF42/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" />
-
