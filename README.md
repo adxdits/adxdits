@@ -7,13 +7,22 @@
 
 ---
 
+### ☕ Support Me:
+<p align="center">
+  <a href="https://buymeacoffee.com/adxdits" target="_blank">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=adxdits&button_colour=FFDD00&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me A Coffee" />
+  </a>
+</p>
+
+---
+
 ### 👨‍💻 About Me:
 - 🌍 **Lebanese living in Paris**  
 - 💼 **Software Engineer Apprentice** at **Amadeus**  
 - 🎓 Student at **ESIEE Paris** with two years of prep in **Maths and Physics**  
 - 🌱 Currently exploring **Jenkins** and **cutting-edge web technologies**  
 - ⚡ Fun fact: I’m passionate about tech that builds connections  
-- 📫 Reach me at: **adamalmounayar@hotmail.com**  
+- 📧 Reach me at: **adamalmounayar@hotmail.com**  
 
 ---
 
@@ -59,7 +68,6 @@
 
 ---
 
-
 ### 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Adxdits&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -68,5 +76,4 @@
 </div>
 
 ---
-
 
