@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adam Al-Mounayar</h1>
+<h1 align="center">Hey 👋, I'm Adam Al-Mounayar</h1>
 <h3 align="center">Software Engineer | Web Development Enthusiast | Tech Explorer</h3>
 
 <p align="center">
