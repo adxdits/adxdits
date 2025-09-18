@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Adam Al-Mounayar</h1>
+<h1 align="center">Hey 👋, I'm Adam </h1>
 <h3 align="center">Software Engineer | Web Development Enthusiast | Tech Explorer</h3>
 
 <p align="center">
@@ -17,12 +17,11 @@
 ---
 
 ### 👨‍💻 About Me:
-- 🌍 **Lebanese living in Paris**  
-- 💼 **Software Engineer Apprentice** at **Amadeus**  
-- 🎓 Student at **ESIEE Paris** with two years of prep in **Maths and Physics**  
+- 🌍 **Living in Paris**  
+- 💼 **Software Engineer**
 - 🌱 Currently exploring **Jenkins** and **cutting-edge web technologies**  
 - ⚡ Fun fact: I’m passionate about tech that builds connections  
-- 📧 Reach me at: **adamalmounayar@hotmail.com**  
+- 📧 Reach me at: **zanark2.adam@gmail.com**  
 
 ---
 
@@ -64,7 +63,7 @@
 ### 👔 Experience:
 | Position               | Company         | Field             | Work Period       |
 |------------------------|-----------------|-------------------|-------------------|
-| **Software Engineer Apprentice** | **Amadeus**     | **Web Engineering** | **2024 – Present** |
+| **Software Engineer** | ****     | **Machine Learning and Backend** | **2024 – Present** |
 
 ---
 
