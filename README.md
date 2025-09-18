@@ -9,8 +9,8 @@
 
 ### ☕ Support Me:
 <p align="center">
-  <a href="https://buymeacoffee.com/adxdits" target="_blank">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=adxdits&button_colour=FFDD00&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me A Coffee" />
+  <a href="https://www.buymeacoffee.com/adxdits" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/arial-orange.png" alt="Buy Me A Coffee" style="height:36px;">
   </a>
 </p>
 
@@ -67,12 +67,8 @@
 
 ---
 
-### 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adxdits&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adxdits&theme=radical" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adxdits&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+### 📊 GitHub Stats & Streak
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=adxdits&theme=radical&hide_border=true" alt="GitHub Streak" /></a>
 
 ---
 
