@@ -15,7 +15,7 @@
 
 <div align="center">
   
-## 👨‍💻 About Me
+## About Me
 
 </div>
 
@@ -29,16 +29,17 @@ const Adam = {
 };
 ```
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="400"
+src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-### 🚀 Quick Facts
+### Quick Facts
 
-- 🌍 Living in **Paris, France**
-- 💼 **Software Engineer** specializing in **ML & Backend**
-- 🌱 Currently mastering **Jenkins** & cutting-edge tech
-- ⚡ Building tech that connects people
-- 📧 Let's connect: **zanark2.adam@gmail.com**
-- 🎯 Always learning, always growing
+-  Based in **Paris, France**
+-  **Software Engineer** focused on **Machine Learning & Backend**
+-  Currently mastering **Jenkins** and modern DevOps tools
+-  Building tech that connects people
+-  Let’s connect: **zanark2.adam@gmail.com**
+-  Always learning, always growing 
 
 <br clear="right"/>
 
@@ -46,7 +47,7 @@ const Adam = {
 
 <div align="center">
 
-## 🌐 Connect & Explore
+## Connect & Explore
 
 <p>
   <a href="https://adxdits.github.io/MySite/" target="_blank">
@@ -72,9 +73,9 @@ const Adam = {
 
 <div align="center">
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
-### 💻 Languages
+### Languages
 <p>
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
@@ -83,7 +84,7 @@ const Adam = {
   <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
 </p>
 
-### 🚀 Frameworks & Libraries
+### Frameworks & Libraries
 <p>
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
@@ -91,13 +92,13 @@ const Adam = {
   <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js"/>
 </p>
 
-### 🎮 Game Development
+### Game Development
 <p>
   <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
   <img src="https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine"/>
 </p>
 
-### 🔧 Tools & Platforms
+### Tools & Platforms
 <p>
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
@@ -111,16 +112,16 @@ const Adam = {
 
 <div align="center">
 
-## 💼 Professional Experience
+## Professional Experience
 
 </div>
 
 <table align="center">
   <tr>
-    <th>🎯 Position</th>
-    <th>🏢 Company</th>
-    <th>💡 Field</th>
-    <th>📅 Period</th>
+    <th>Position</th>
+    <th>Company</th>
+    <th>Field</th>
+    <th>Period</th>
   </tr>
   <tr>
     <td><b>Software Engineer</b></td>
@@ -134,11 +135,8 @@ const Adam = {
 
 <div align="center">
 
-### 📈 Contribution Graph
+### Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=adxdits&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
-
-### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=adxdits&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" width="100%" alt="GitHub Trophies" />
 
 </div>
 
@@ -146,7 +144,7 @@ const Adam = {
 
 <div align="center">
 
-### 💭 Dev Quote
+### Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 
 ### 🎵 Currently Listening To
@@ -155,14 +153,13 @@ const Adam = {
   <br>
   <img src="https://img.shields.io/badge/🎵_The_Climb-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="The Climb"/>
 </a>
-
 </div>
 
 ---
 
 <div align="center">
   
-### ☕ Support My Work
+### Support My Work
 
 <p>
   <a href="https://www.buymeacoffee.com/adxdits" target="_blank">
