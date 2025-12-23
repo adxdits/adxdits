@@ -55,6 +55,9 @@ const Adam = {
   <a href="https://instagram.com/adamxmounayar" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
+  <a href="https://www.tiktok.com/@adxdit" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok_131k-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok"/>
+  </a>
   <a href="https://www.linkedin.com/in/adam-al-mounayar-0b6a5026b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
