@@ -1,96 +1,180 @@
-<h1 align="center">Hey 👋, I'm Adam </h1>
-<h3 align="center">Software Engineer | Web Development Enthusiast | Tech Explorer</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hey+%F0%9F%91%8B%2C+I'm+Adam;Software+Engineer;Web+Developer;Tech+Enthusiast" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-   <img src="https://giffiles.alphacoders.com/218/218663.gif" alt="Ending Animation" >
+   <img src="https://giffiles.alphacoders.com/218/218663.gif" alt="Coding Animation" width="600">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adxdits&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/adxdits?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
 ---
 
-### ☕ Support Me:
-<p align="center">
-  <a href="https://www.buymeacoffee.com/adxdits" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/arial-orange.png" alt="Buy Me A Coffee" style="height:36px;">
+<div align="center">
+  
+## 👨‍💻 About Me
+
+</div>
+
+```typescript
+const Adam = {
+    location: "Paris 🇫🇷",
+    role: "Software Engineer",
+    currentFocus: ["Jenkins", "Machine Learning", "Modern Web Technologies"],
+    passions: ["Building connections through tech", "Open Source", "Innovation"],
+    contact: "zanark2.adam@gmail.com"
+};
+```
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+### 🚀 Quick Facts
+
+- 🌍 Living in **Paris, France**
+- 💼 **Software Engineer** specializing in **ML & Backend**
+- 🌱 Currently mastering **Jenkins** & cutting-edge tech
+- ⚡ Building tech that connects people
+- 📧 Let's connect: **zanark2.adam@gmail.com**
+- 🎯 Always learning, always growing
+
+<br clear="right"/>
+
+---
+
+<div align="center">
+
+## 🌐 Connect & Explore
+
+<p>
+  <a href="https://adxdits.github.io/MySite/" target="_blank">
+    <img src="https://img.shields.io/badge/🌟_My_Blog-FF6B6B?style=for-the-badge&logoColor=white" alt="Blog"/>
   </a>
-</p>
-
----
-
-### 👨‍💻 About Me:
-- 🌍 **Living in Paris**  
-- 💼 **Software Engineer**
-- 🌱 Currently exploring **Jenkins** and **cutting-edge web technologies**  
-- ⚡ Fun fact: I’m passionate about tech that builds connections  
-- 📧 Reach me at: **zanark2.adam@gmail.com**  
-
----
-
-### 🌐 Explore:
-<a href="https://adxdits.github.io/MySite/" target="_blank">
-  <img src="https://img.icons8.com/?size=100&id=cXYUoqPdbtbr&format=png&color=000000" alt="Blog" height="30" width="30"/> 
-  <span>Read My Blog</span>
-</a>
-
----
-
-### 📱 Connect with Me:
-<p align="center">
   <a href="https://instagram.com/adamxmounayar" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="30" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://www.linkedin.com/in/adam-al-mounayar-0b6a5026b/" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="LinkedIn" height="30" width="30" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.buymeacoffee.com/adxdits" target="_blank">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
   </a>
 </p>
+
+</div>
 
 ---
 
-### 🛠️ Languages & Tools:
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="Unreal Engine" width="40" height="40"/>
+<div align="center">
+
+## 🛠️ Tech Stack & Tools
+
+### 💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
 </p>
+
+### 🚀 Frameworks & Libraries
+<p>
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js"/>
+</p>
+
+### 🎮 Game Development
+<p>
+  <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
+  <img src="https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine"/>
+</p>
+
+### 🔧 Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+</p>
+
+</div>
 
 ---
 
-### 👔 Experience:
-| Position               | Company         | Field             | Work Period       |
-|------------------------|-----------------|-------------------|-------------------|
-| **Software Engineer** | ****     | **Machine Learning and Backend** | **2024 – Present** |
+<div align="center">
+
+## 💼 Professional Experience
+
+</div>
+
+<table align="center">
+  <tr>
+    <th>🎯 Position</th>
+    <th>🏢 Company</th>
+    <th>💡 Field</th>
+    <th>📅 Period</th>
+  </tr>
+  <tr>
+    <td><b>Software Engineer</b></td>
+    <td><b>Amadeus</b></td>
+    <td><b>Machine Learning & Backend</b></td>
+    <td><b>2024 – Present</b></td>
+  </tr>
+</table>
 
 ---
 
-### 📊 GitHub Stats & Streak
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=adxdits&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=adxdits&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  </a>
-</p>
+### 📈 Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adxdits&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adxdits&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  </a>
-</p>
+### 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=adxdits&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" width="100%" alt="GitHub Trophies" />
 
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=adxdits&theme=radical&hide_border=true" alt="GitHub Activity Graph" />
-  </a>
-</p>
+</div>
 
 ---
 
+<div align="center">
+
+### 💭 Dev Quote
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+
+### 🎵 Vibing to
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31l2ub7rwiql34g6jttqz3jwkfby&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
+
+</div>
+
+---
+
+<div align="center">
+  
+### ☕ Support My Work
+
+<p>
+  <a href="https://www.buymeacoffee.com/adxdits" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50">
+  </a>
+</p>
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+</p>
+
+<div align="center">
+  
+  ⭐️ **Made with ❤️ by Adam** ⭐️
+  
+  <sub>Last updated: December 2025</sub>
+  
+</div>
