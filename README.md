@@ -146,8 +146,12 @@ const Adam = {
 ### 💭 Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 
-### 🎵 Vibing to
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31l2ub7rwiql34g6jttqz3jwkfby&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
+### 🎵 Currently Listening To
+<a href="https://open.spotify.com/track/5x5JM1BSB6vollcIzDocqT" target="_blank">
+  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" alt="The Climb - Miley Cyrus" width="300"/>
+  <br>
+  <img src="https://img.shields.io/badge/🎵_The_Climb-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="The Climb"/>
+</a>
 
 </div>
 
