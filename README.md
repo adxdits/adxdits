@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hey+%F0%9F%91%8B%2C+I'm+Adam;Software+Engineer;Web+Developer;Tech+Enthusiast" alt="Typing SVG" />
-</h1>
+<h1 align="center">Hello I am Adam</h1>
 
 <p align="center">
    <img src="https://giffiles.alphacoders.com/218/218663.gif" alt="Coding Animation" width="600">
@@ -38,8 +36,7 @@ src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-
 -  **Software Engineer** focused on **Machine Learning & Backend**
 -  Currently mastering **Jenkins** and modern DevOps tools
 -  Building tech that connects people
--  Let’s connect: **zanark2.adam@gmail.com**
--  Always learning, always growing 
+-  I play ukulele 🎸-  Always learning, always growing 
 
 <br clear="right"/>
 
