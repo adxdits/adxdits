@@ -21,24 +21,20 @@
 const Adam = {
     location: "Paris 🇫🇷",
     role: "Software Engineer",
-    currentFocus: ["Jenkins", "Machine Learning", "Modern Web Technologies"],
+    currentFocus: ["Angular", "NgRx", "Open Source", "Modern Web Technologies"],
     passions: ["Building connections through tech", "Open Source", "Innovation"],
     contact: "zanark2.adam@gmail.com"
 };
 ```
 
-<img align="right" alt="Coding" width="400"
-src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
-
 ### Quick Facts
 
--  Based in **Paris, France**
--  **Software Engineer** focused on **Machine Learning & Backend**
--  Currently mastering **Jenkins** and modern DevOps tools
--  Building tech that connects people
--  I play ukulele 🎸-  Always learning, always growing 
-
-<br clear="right"/>
+- Based in **Paris, France**
+- **Software Engineer** at **Amadeus**
+- Contributing to **Playwright**, **NgRx** & building **ngrx-devtool**
+- Building tech that connects people
+- I play ukulele
+- Always learning, always growing
 
 ---
 
@@ -70,38 +66,54 @@ src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-
 
 <div align="center">
 
-## Tech Stack & Tools
+## Tech Stack
 
-### Languages
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-</p>
-
-### Frameworks & Libraries
-<p>
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js"/>
-</p>
-
-### Game Development
-<p>
-  <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
-  <img src="https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine"/>
-</p>
-
-### Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="110"><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+      <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+      <img src="https://img.shields.io/badge/Python-%233670A0.svg?style=flat-square&logo=python&logoColor=ffdd54" alt="Python"/>
+      <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"/>
+      <img src="https://img.shields.io/badge/Zig-%23F7A41D.svg?style=flat-square&logo=zig&logoColor=white" alt="Zig"/>
+      <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
+      <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
+      <img src="https://img.shields.io/badge/NgRx-%23BA2BD2.svg?style=flat-square&logo=reactivex&logoColor=white" alt="NgRx"/>
+      <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black" alt="React"/>
+      <img src="https://img.shields.io/badge/RxJS-%23B7178C.svg?style=flat-square&logo=reactivex&logoColor=white" alt="RxJS"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-%236DA55F.svg?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
+      <img src="https://img.shields.io/badge/Express-%23404d59.svg?style=flat-square&logo=express&logoColor=white" alt="Express"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+      <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+      <img src="https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins"/>
+      <img src="https://img.shields.io/badge/Playwright-%232EAD33.svg?style=flat-square&logo=playwright&logoColor=white" alt="Playwright"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Game Dev</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white" alt="Unity"/>
+      <img src="https://img.shields.io/badge/Unreal-%23313131.svg?style=flat-square&logo=unrealengine&logoColor=white" alt="Unreal Engine"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -109,22 +121,59 @@ src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-
 
 <div align="center">
 
-## Professional Experience
+## Latest Contributions
 
 </div>
 
 <table align="center">
   <tr>
-    <th>Position</th>
-    <th>Company</th>
-    <th>Field</th>
-    <th>Period</th>
+    <td width="80" align="center">
+      <a href="https://github.com/microsoft/playwright">
+        <img src="https://playwright.dev/img/playwright-logo.svg" width="40" alt="Playwright"/><br/>
+        <sub><b>Playwright</b></sub>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/microsoft/playwright/pull/39351"><b>PR #39351</b></a><br/>
+      <sub>microsoft/playwright · 68k+ stars</sub>
+    </td>
   </tr>
   <tr>
-    <td><b>Software Engineer</b></td>
-    <td><b>Amadeus</b></td>
-    <td><b>Machine Learning & Backend</b></td>
-    <td><b>2024 – Present</b></td>
+    <td width="80" align="center">
+      <a href="https://github.com/ngrx/platform">
+        <img src="https://avatars.githubusercontent.com/u/16272733?s=48&v=4" width="40" alt="NgRx"/><br/>
+        <sub><b>NgRx</b></sub>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/ngrx/platform/pull/5092"><b>PR #5092</b></a> <code>feat(docs): dark/light theme toggle</code><br/>
+      <sub>ngrx/platform · 8k+ stars</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="80" align="center">
+      <a href="https://github.com/AmadeusITGroup/ngrx-devtool">
+        <img src="https://avatars.githubusercontent.com/u/16272733?s=48&v=4" width="28" alt="NgRx"/>
+        <img src="https://avatars.githubusercontent.com/u/6802338?s=48&v=4" width="28" alt="Amadeus"/><br/>
+        <sub><b>ngrx-devtool</b></sub>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/AmadeusITGroup/ngrx-devtool"><b>AmadeusITGroup/ngrx-devtool</b></a> Creator<br/>
+      <sub>DevTools for NgRx state management</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="80" align="center">
+      <a href="https://github.com/adxdits/zigtui">
+        <img src="https://img.shields.io/badge/Zig-%23F7A41D.svg?style=flat-square&logo=zig&logoColor=white" width="40" alt="Zig"/><br/>
+        <sub><b>zigtui</b></sub>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/adxdits/zigtui"><b>adxdits/zigtui</b></a> Creator<br/>
+      <sub>TUI library built with Zig</sub>
+    </td>
   </tr>
 </table>
 
@@ -176,6 +225,6 @@ src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-
   
   ⭐️ **Made with ❤️ by Adam** ⭐️
   
-  <sub>Last updated: February 2026</sub>
+  <sub>Last updated: 26 February 2026</sub>
   
 </div>
