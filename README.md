@@ -31,7 +31,6 @@ const Adam = {
 
 - Based in **Paris, France**
 - **Software Engineer** at **Amadeus**
-- Contributing to **Playwright**, **NgRx** & building **ngrx-devtool**
 - Building tech that connects people
 - I play ukulele
 - Always learning, always growing
