@@ -9,24 +9,6 @@
   <img src="https://img.shields.io/github/followers/adxdits?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
----
-
-<div align="center">
-  
-## About Me
-
-</div>
-
-```typescript
-const Adam = {
-    location: "Paris 🇫🇷",
-    role: "Software Engineer",
-    currentFocus: ["Angular", "NgRx", "Open Source", "Modern Web Technologies"],
-    passions: ["Building connections through tech", "Open Source", "Innovation"],
-    contact: "zanark2.adam@gmail.com"
-};
-```
-
 ### Quick Facts
 
 - Based in **Paris, France**
@@ -176,31 +158,7 @@ const Adam = {
   </tr>
 </table>
 
----
 
-<div align="center">
-
-### Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adxdits&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
-
-</div>
-
----
-
-<div align="center">
-
-### Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-
-### 🎵 Currently Listening To
-<a href="https://open.spotify.com/track/5x5JM1BSB6vollcIzDocqT" target="_blank">
-  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" alt="The Climb - Miley Cyrus" width="300"/>
-  <br>
-  <img src="https://img.shields.io/badge/🎵_The_Climb-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="The Climb"/>
-</a>
-</div>
-
----
 
 <div align="center">
   
@@ -212,18 +170,4 @@ const Adam = {
   </a>
 </p>
 
-</div>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-</p>
-
-<div align="center">
-  
-  ⭐️ **Made with ❤️ by Adam** ⭐️
-  
-  <sub>Last updated: 18 March 2026</sub>
-  
 </div>
