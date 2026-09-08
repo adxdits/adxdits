@@ -127,6 +127,18 @@
       </a>
     </td>
     <td>
+      <a href="https://github.com/ngrx/platform/pull/5219"><b>PR #5219</b></a> <code>fix(signals): preserve entity on id type change</code><br/>
+      <sub>ngrx/platform · 8k+ stars</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="80" align="center">
+      <a href="https://github.com/ngrx/platform">
+        <img src="https://avatars.githubusercontent.com/u/16272733?s=48&v=4" width="40" alt="NgRx"/><br/>
+        <sub><b>NgRx</b></sub>
+      </a>
+    </td>
+    <td>
       <a href="https://github.com/ngrx/platform/pull/5092"><b>PR #5092</b></a> <code>feat(docs): dark/light theme toggle</code><br/>
       <sub>ngrx/platform · 8k+ stars</sub>
     </td>
